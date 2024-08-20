@@ -94,7 +94,7 @@ defmodule LiveSelect.MixProject do
     [
       licenses: ["Apache-2.0"],
       links: %{
-        GitHub:  "https://github.com/maxmarcon/live_select"
+        GitHub:  "https//github.com/maxmarcon/live_select"
       },
       files: ~w(mix.exs lib/live_select** package.json priv/static/live_select.min.js)
     ]
